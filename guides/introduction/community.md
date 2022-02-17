@@ -39,6 +39,8 @@ There are a number of places to connect with community members at all experience
 
   * [Groxio LiveView: Self Study Program (by Bruce Tate - 2020)](https://grox.io/language/liveview/course)
 
+  * [Alchemist Camp: Learn Elixir and Phoenix by building - 2018-2022](https://alchemist.camp/episodes)
+
   * [The Complete Elixir and Phoenix Bootcamp Master Functional Programming Techniques with Elixir and Phoenix while Learning to Build Compelling Web Applications (by Stephen Grider - 2017)](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
   * [Discover Elixir & Phoenix (by Tristan Edwards - 2017)](https://www.ludu.co/course/discover-elixir-phoenix)
